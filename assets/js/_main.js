@@ -63,6 +63,14 @@ $(document).ready(function(){
   // add lightbox class to all image links
   $("a[href$='.jpg'],a[href$='.jpeg'],a[href$='.JPG'],a[href$='.png'],a[href$='.gif']").addClass("image-popup");
 
+  // 确保GIF循环播放
+  $("img[src$='.gif']").each(function() {
+    var $img = $(this);
+    var src = $img.attr('src');
+    // 重新加载GIF以确保循环播放
+    $img.attr('src', src + '?' + new Date().getTime());
+  });
+
   // Magnific-Popup options
   $(".image-popup").magnificPopup({
     // disableOn: function() {
