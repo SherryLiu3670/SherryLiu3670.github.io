@@ -42,7 +42,7 @@ My experience focuses on computer vision and robot learning with deep learning a
 
 **Xinyi Liu**<span style="color:#7a8288;">, Mohammadreza Fani Sani, Bahram Zarrin, Roberto Galeazzi </span>
 
-RobotCopilot integrated large language models with real-time perception and control modules, enabling high-level natural language commands to guide robotic pick-and-place operations. Successfully deployed on Universal Robot, demonstrating robust performance in dynamic environments.
+RobotPilot integrated large language models with real-time perception and control modules, enabling high-level natural language commands to guide robotic pick-and-place operations. Successfully deployed on Universal Robot, demonstrating robust performance in dynamic environments.
 
 [arXiv, 2025]() \| [<img src='images/paper.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>]() \| [<img src='images/project.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>]() 
 
