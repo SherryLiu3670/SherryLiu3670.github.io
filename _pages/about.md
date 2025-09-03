@@ -38,7 +38,7 @@ My experience focuses on computer vision and robot learning with deep learning a
 <div class='paper-box-text' markdown="1">
 
 
-**RoboCopilot: An LLM-based Robot Agent with Natural Language Instruction**
+**RoboPilot: Generalizable Zero-Shot Perception-Planning Pipeline for Dynamic Robot Manipulation**
 
 **Xinyi Liu**<span style="color:#7a8288;">, Mohammadreza Fani Sani, Bahram Zarrin, Roberto Galeazzi </span>
 
