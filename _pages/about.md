@@ -38,13 +38,13 @@ My experience focuses on computer vision and robot learning with deep learning a
 <div class='paper-box-text' markdown="1">
 
 
-**RoboPilot: Generalizable Zero-Shot Perception-Planning Framework for Dynamic Robot Manipulation**
+**RoboPilot: Generalizable Dynamic Robotic Manipulation with Dual-thinking Modes**
 
-**Xinyi Liu**<span style="color:#7a8288;">, Mohammadreza Fani Sani, Bahram Zarrin, Roberto Galeazzi </span>
+**Xinyi Liu**<span style="color:#7a8288;">, Mohammadreza Fani Sani, Zewei Zhou, Julius Wirbel, Bahram Zarrin, Roberto Galeazzi </span>
 
-RobotPilot integrated large language models with real-time perception and control modules, enabling high-level natural language commands to guide robotic pick-and-place operations. Successfully deployed on Universal Robot, demonstrating robust performance in dynamic environments.
+RobotPilot is a dual-thinking closed-loop framework for robotic manipulation that supports adaptive reasoning for complex tasks in real-world dynamic environments.
 
-[arXiv, 2025]() \| [<img src='images/paper.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>]() \| [<img src='images/project.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>]() 
+[arXiv, 2025]() \| [<img src='images/paper.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>]() \| [<img src='images/project.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://sherryliu3670.github.io/robopilot/#) 
 
 
 </div>
