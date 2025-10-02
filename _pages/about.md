@@ -44,7 +44,7 @@ My experience focuses on computer vision and robot learning with deep learning a
 
 RobotPilot is a dual-thinking closed-loop framework for robotic manipulation that supports adaptive reasoning for complex tasks in real-world dynamic environments.
 
-[arXiv, 2025]() \| [<img src='images/paper.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>]() \| [<img src='images/project.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://sherryliu3670.github.io/robopilot/#) 
+[arXiv, 2025]() \| [<img src='images/paper.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://arxiv.org/abs/2510.00154) \| [<img src='images/project.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://sherryliu3670.github.io/robopilot/#) 
 
 
 </div>
