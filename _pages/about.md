@@ -108,7 +108,7 @@ defects into five types, whose accuracy arrived at 89% and 84% respectively in t
 [Tongji University](), Shanghai, China, *2020.04 - 2021.04*
 
 
-Student Innovatation Training Program (SITP), **Team Leader**
+Student Innovation Training Program (SITP), **Team Leader**
 
 - Built 3D point cloud map using 2 ORB-SLAM2 frames
 - Developed WeChat navigation applet based on Feng-map open source map
