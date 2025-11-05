@@ -22,6 +22,7 @@ redirect_from:
 My experience focuses on computer vision and robot learning with deep learning and generative models. [**I am searching for full positions in 2025**]()
 
 # 🔥 News
+- *2025.10*: &nbsp;🎉 Our [V2XPnP](https://mobility-lab.seas.ucla.edu/v2xpnp/) paper won the [Best Paper Award (1st)]() at the [ICCV 2025 DriveX Workshop](https://drivex-workshop.github.io/)!
 - *2025.06*: &nbsp;👏 Our [V2XPnP](https://mobility-lab.seas.ucla.edu/v2xpnp/) paper on cooperative perception and prediction has been accepted by [ICCV 2025](https://iccv.thecvf.com/)!
 - *2025.02*: &nbsp;💻 Start my student researcher in [Microsoft](https://news.microsoft.com/source/), focusing on robot agent for manipulation with LLM.
 - *2024.05*: &nbsp;👏 Our unsupervised reinforcement learning papers on autonomous driving have been accepted by [_IEEE Transactions on Intelligent Transportation Systems_](https://ieeexplore.ieee.org/abstract/document/10538221) (Top-ranked in ITS Filed, IF:8.2)!
